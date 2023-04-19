@@ -1,1 +1,1 @@
-[Live Demo)(https://abdullahmazahreh.github.io/Telentera-clone/)
+[Live Demo](https://abdullahmazahreh.github.io/Telentera-clone/)
